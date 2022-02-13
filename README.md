@@ -1,0 +1,2 @@
+# Detecção de palavras manuscritas 
+
